@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #101c54;
+  text-align: center;
+  color: #ffffff;
+}
+
+.app-title {
+  margin-top: 75px;
+  margin-bottom: 20px;
+  font-size: 30px;
+  color: #ffffff;
+}
+
+.app-description {
+  margin: auto 5%;
+  font-size: 16px;
+  color: #ffffff;
+}
+.App {
+  text-align: center;
+}
