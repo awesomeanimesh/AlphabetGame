@@ -56,11 +56,11 @@ function App() {
     };
 
   },[isActive,isStopped])
-  const timer=(run)=>{
+  
     
 
 
-  }
+  
   //check whether user entered correct input
   const check=(input)=>{
     
@@ -127,14 +127,14 @@ function App() {
 
  
 
-  const displayContent=()=>{
-    if(count===20)
-    {
-      if(time)
-      setAlpha()
-    }
+  // const displayContent=()=>{
+  //   if(count===20)
+  //   {
+  //     if(time)
+  //     setAlpha()
+  //   }
  
-   }
+  //  }
   return (
     <div className="App">
       <h2 className='app-title'>Type the alphabet</h2>
